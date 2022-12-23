@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/mnu_mantenimiento" android:title="Mantenimiento"></item>
+    <item android:id="@+id/mnu_completo" android:title="Calendario Completo"></item>
+    <item android:id="@+id/mnu_diames" android:title="Por día y mes"></item>
+    <item android:id="@+id/mnu_motivo" android:title="Por motivo"></item>
+</menu>
